@@ -9,9 +9,9 @@ Problem Statement: We are given a time-series dataset called DATASET ROAD which 
 Models Employed: LGBM Regressor, XGBoost, Extra Tree Regressor and Random Forest Regressor.
 
 
-LGBM Regressor: 68.76
-XGBoost Regressor: 80.10
-Extra Tree Regressor: 42.04
-Random Forest Regressor: 46.35
+LGBM Regressor: 68.76 <br>
+XGBoost Regressor: 80.10 <br>
+Extra Tree Regressor: 42.04 <br>
+Random Forest Regressor: 46.35 <br>
 
 The best RMSE value was shown by Extra Tree Regressor: 42.04
